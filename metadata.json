@@ -1,0 +1,7 @@
+{
+  "name": "App Municipal",
+  "description": "Aplicación para el reporte y gestión de incidencias en alumbrado público con asistencia de IA para clasificación automática.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
